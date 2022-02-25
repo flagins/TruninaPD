@@ -6,4 +6,4 @@
 ## 2 семестр
 ## [Отчет по лабораторным работам 1-3](https://github.com/flagins/TruninaPD/wiki/)
 ## [Отчет по лабораторным работам 4-6](https://github.com/flagins/TruninaPD/wiki/)
-## [Курсовой проект](https://github.com/flagins/TruninaPD/wiki/Курсовой проект/)
+## [Курсовой проект](https://github.com/flagins/TruninaPD/wiki/Курсовой-проект/)
